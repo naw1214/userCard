@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width: 800px;
+    height: 800px;
+}
+.banner{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(51, 51, 199);
+}
+.profile{
+    position: absolute;
+    top: 10px;
+    margin: 40px;
+}
+.location{
+    margin: 10px;
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.settings{
+    margin-top: 10px;
+    color: blue;
+    text-decoration: underline;
+    width: 110px;
+    display: flex;
+    justify-content: space-between;
+}
